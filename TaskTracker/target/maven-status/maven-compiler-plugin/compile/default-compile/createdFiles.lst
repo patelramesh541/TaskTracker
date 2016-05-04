@@ -1,0 +1,6 @@
+com\quinnox\model\User.class
+com\quinnox\model\Ticket.class
+com\quinnox\controller\UserController.class
+com\quinnox\config\AppConfig.class
+com\quinnox\TaskTrackerApplication.class
+com\quinnox\repositories\UserRepository.class
